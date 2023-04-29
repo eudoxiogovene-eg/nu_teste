@@ -11,6 +11,10 @@ export default function Home() {
       < Stories />
       <Products />
       <Post />
+      <Post />
+      <Post />
+      <Post />
+       <Post />
     </div>
   )
 }
